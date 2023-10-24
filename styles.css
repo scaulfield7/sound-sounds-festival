@@ -8,10 +8,30 @@ body {
 
 .menu {
     width: 80%;
+    background-color: rgb(235, 225, 230, 0.35);
     margin-left: auto;
     margin-right: auto;
 }
 
 h1, h2, p {
     text-align: center;
+}
+
+.item p {
+    display: inline-block;
+}
+
+.time {
+    text-align: left;
+    width: 25%;
+}
+
+.artist {
+    text-align: center;
+    width: 50%
+}
+
+.stage {
+    text-align: right;
+    width: 25%
 }
