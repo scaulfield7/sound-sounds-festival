@@ -11,10 +11,7 @@ body {
     background-color: rgb(235, 225, 230, 0.35);
     margin-left: auto;
     margin-right: auto;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 25px;
 }
 
 h1, h2, p {
