@@ -1,8 +1,5 @@
 body {
-    /*
-        Image from: https://www.freepik.com/free-photo/group-people-enjoying-holi-color_4484173.htm
-        To-do: Credit image on website
-    */
+    /* Image from: https://www.freepik.com/free-photo/group-people-enjoying-holi-color_4484173.htm */
     background-image: url('./images/festival-backgound-image.jpg');
 }
 
@@ -11,6 +8,7 @@ body {
     background-color: rgb(235, 225, 230, 0.35);
     margin-left: auto;
     margin-right: auto;
+    padding: 25px;
 }
 
 h1, h2, p {
