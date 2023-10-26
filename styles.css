@@ -1,6 +1,10 @@
 body {
     /* Image from: https://www.freepik.com/free-photo/group-people-enjoying-holi-color_4484173.htm */
     background-image: url('./images/festival-backgound-image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Prevents blank space around image */
+    background-size: cover;
+    background-position: center;
 }
 
 .menu {
