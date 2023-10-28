@@ -37,3 +37,25 @@ h1, h2, p {
     text-align: right;
     width: 25%
 }
+
+/* FOOTER */
+
+footer {
+    font-size: 14px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+a:active {
+    color: blueviolet;
+}
