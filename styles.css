@@ -5,6 +5,7 @@ body {
     background-attachment: fixed; /* Prevents blank space around image */
     background-size: cover;
     background-position: center;
+    font-family: Copperplate Gothic Light, sans-serif;
 }
 
 .menu {
@@ -19,22 +20,34 @@ h1, h2, p {
     text-align: center;
 }
 
+h1 {
+    font-size: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 .item p {
     display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .time {
     text-align: left;
+    font-size: 18px;
     width: 25%;
 }
 
 .artist {
     text-align: center;
-    width: 50%
+    font-size: 30px;
+    font-weight: 600;
+    width: 50%;
 }
 
 .stage {
     text-align: right;
+    font-size: 18px;
     width: 25%
 }
 
